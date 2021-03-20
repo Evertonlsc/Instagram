@@ -2,8 +2,7 @@
 
 
 
-- ## Seja bem vido(a)!:computer:
-
+- ## Seja bem vindo (a)!
 
 
 ​	***Muito obrigado @gabrielapinheiro**
